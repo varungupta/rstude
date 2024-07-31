@@ -1,2 +1,2 @@
 # rstude
-Rust programs of considerable difficulty, to perfect particular skills.
+étude refers to a piece of music for the practice of a point of technique.
